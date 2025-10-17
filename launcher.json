@@ -1,0 +1,22 @@
+{
+  "server": {
+    "ip": "124.81.184.187",
+    "port": 7777,
+    "name": "GTAVN NETWORK",
+    "maxPlayers": 500,
+    "website": "https://gtavn.network",
+    "discord": "https://discord.gg/gtavn",
+    "facebook": "https://www.facebook.com/GTAVN.NETWORK",
+    "wiki": "https://wiki.gtavn.network",
+    "forum": "https://forum.gtavn.network"
+  },
+  "launcher": {
+    "gtaPath": null,
+    "userManualInstall": false,
+    "baseDownloadURL": "https://web.gtavn.network/game/",
+    "updateUrl": "https://api.gtavn.network/launcher/update",
+    "zipUrl": "https://download1592.mediafire.com/...",
+    "zipName": "GTAVN.zip",
+    "manifestUrl": "https://web.gtavn.network/api/general/manifest"
+  }
+}
