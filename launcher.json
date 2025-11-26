@@ -5,8 +5,8 @@
     "name": "GTAVN NETWORK",
     "maxPlayers": 500,
     "website": "https://gtavn.network",
-    "discord": "https://discord.gg/gtavn",
-    "facebook": "https://www.facebook.com/GTAVN.NETWORK",
+    "discord": "https://dsc.gg/gtavnnetwork",
+    "facebook": "https://www.facebook.com/gtavnnetwork/",
     "wiki": "https://wiki.gtavn.network",
     "forum": "https://forum.gtavn.network"
   },
@@ -15,7 +15,7 @@
     "userManualInstall": false,
     "baseDownloadURL": "https://web.gtavn.network/game/",
     "updateUrl": "https://api.gtavn.network/launcher/update",
-    "zipUrl": "https://download1590.mediafire.com/c4ifytiburcgxF5kHGdLRhbzHXOZyvwFSB6RRXq2D_wlvVqaRaRbLMGwFRTrrkfquYmO0Ryp41u1Iki9lgGOvyQP5R2yK0xqPMV_LHTq79NovOHlWI80LVqVvU5IDOQnN-pslCIOPVvePnpVFlHYqxYrUnVCEabwCvFSnqK5iyByfw/n79qgy17cfq2y2d/GTAVN.zip",
+    "zipUrl": "https://long-thunder-0651.misaki-huy.workers.dev/GTAVN.zip",
     "zipName": "GTAVN.zip",
     "manifestUrl": "https://web.gtavn.network/api/general/manifest"
   }
